@@ -65,3 +65,10 @@ It uses either TfidfVectorizer or CountVectorizer to convert text data into nume
 Trains an SVM model (SVC) and makes predictions on the test data.
 The class includes methods for setting and retrieving hyperparameters (e.g., kernel type, regularization).
 It is flexible in allowing different vectorization types and model parameter adjustments via the set_params and get_params methods.
+# Data Vectorizer
+cleaneddata.csv: Contains cleaned versions of text messages.
+spammail.csv: Contains uncleaned versions of the same messages.
+best_vectorizer.pkl: Saved CountVectorizer model.
+best_tfidf_transformer.pkl: Saved TfidfTransformer model.
+Output:
+results.txt: Contains the original and cleaned messages, Bag of Words, TF, IDF, and TF-IDF for each selected message.
