@@ -16,4 +16,10 @@ Removing Non-Alphanumeric Characters: Non-alphanumeric characters (excluding spa
 Counting and Removing Extra Spaces: Extra spaces are detected and removed to ensure the text has consistent spacing.
 
 Removing Stop Words: Common English stop words (e.g., "the", "is", "in") are removed to focus on more meaningful words.
-
+preprocessing\accuracygraphbar.ipynb
+This script creates an interactive bar chart using Plotly to visualize the performance metrics of different machine learning models. It compares models like Support Vector Classifier, Logistic Regression, Decision Tree, Naive Bayes, and BERT across four key metrics: Accuracy, Precision, Recall, and F1 Score. The values are displayed as percentages.
+Key Points:
+Metrics: Accuracy, Precision, Recall, F1 Score.
+Models: SVC, Logistic Regression, Decision Tree, Naive Bayes, BERT.
+Visualization: A grouped bar chart where each model's performance on the metrics is color-coded for easy comparison.
+Customization: The chart includes rotated labels, grouped bars, custom colors, and percentage scores displayed on the y-axis.
