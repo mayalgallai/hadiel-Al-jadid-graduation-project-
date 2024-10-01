@@ -53,6 +53,7 @@ This is the main file to run the project. It loads the data, preprocesses the te
 It can apply SMOTE for data balancing if there's class imbalance.
 _______________________________________________________________________________________________________________________________________
 model_trainer.py:
+
 Contains the ModelTrainer class, which splits the data using StratifiedKFold, trains the model, and evaluates it with 5-fold cross-validation.
 Handles text conversion via TfidfVectorizer or CountVectorizer and can also apply SMOTE for balancing the data.
 It saves evaluation results (accuracy, precision, recall, F1 score) to a text file and saves the best model.
