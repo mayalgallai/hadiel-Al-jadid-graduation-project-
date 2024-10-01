@@ -1,0 +1,88 @@
+Original Message 1:
+Had your mobile 11 months or more? U R entitled to Update to the latest colour mobiles with camera for Free! Call The Mobile Update Co FREE on 08002986030
+
+Cleaned Message 1:
+mobile 11 months u r entitled update latest colour mobiles camera free call mobile update co free 08002986030
+
+Bag of Words (BoW) for Message 1:
+ 08002986030  11  call  camera  co  colour  entitled  free  latest  mobile  mobiles  months  update
+           1   1     1       1   1       1         1     2       1       2        1       1       2
+
+Term Frequency (TF) for Message 1:
+ 08002986030     11   call  camera     co  colour  entitled  free  latest  mobile  mobiles  months  update
+      0.0625 0.0625 0.0625  0.0625 0.0625  0.0625    0.0625 0.125  0.0625   0.125   0.0625  0.0625   0.125
+
+Inverse Document Frequency (IDF) for Words in Message 1:
+ 08002986030       11    call   camera       co   colour  entitled     free  latest   mobile  mobiles   months   update
+    8.846199 7.593436 3.47092 6.448304 8.153052 6.766757  7.747587 4.281851 6.17205 4.894955 7.236761 7.141451 6.831296
+
+Vectorized Message (TF-IDF) 1:
+ 08002986030       11     call   camera       co  colour  entitled     free  latest  mobile  mobiles   months   update
+    0.301804 0.259063 0.118417 0.219995 0.278156 0.23086  0.264323 0.292166 0.21057   0.334 0.246895 0.243643 0.466123
+
+Original Message 2:
+I'm gonna be home soon and i don't want to talk about this stuff anymore tonight, k? I've cried enough today.
+
+Cleaned Message 2:
+im gon na home soon dont want talk stuff anymore tonight k ive cried enough today
+
+Bag of Words (BoW) for Message 2:
+ anymore  cried  dont  enough  gon  home  im  ive  na  soon  stuff  talk  today  tonight  want
+       1      1     1       1    1     1   1    1   1     1      1     1      1        1     1
+
+Term Frequency (TF) for Message 2:
+ anymore    cried     dont   enough      gon     home       im      ive       na     soon    stuff     talk    today  tonight     want
+0.066667 0.066667 0.066667 0.066667 0.066667 0.066667 0.066667 0.066667 0.066667 0.066667 0.066667 0.066667 0.066667 0.066667 0.066667
+
+Inverse Document Frequency (IDF) for Words in Message 2:
+ anymore    cried     dont   enough      gon     home      im      ive       na     soon    stuff     talk    today  tonight    want
+7.342121 8.846199 4.062882 6.207141 5.478903 4.528711 3.51348 5.248887 4.904617 5.513994 5.778146 5.732684 4.687316 5.478903 4.35196
+
+Vectorized Message (TF-IDF) 2:
+ anymore    cried     dont  enough      gon     home       im      ive       na     soon    stuff     talk   today  tonight     want
+0.338934 0.408367 0.187555 0.28654 0.252922 0.209059 0.162193 0.242304 0.226412 0.254542 0.266736 0.264638 0.21638 0.252922 0.200899
+
+Original Message 3:
+SIX chances to win CASH! From 100 to 20,000 pounds txt> CSH11 and send to 87575. Cost 150p/day, 6days, 16+ TsandCs apply Reply HL 4 info
+
+Cleaned Message 3:
+six chances win cash 100 20000 pounds txt csh11 send 87575 cost 150pday 6days 16 tsandcs apply reply hl four info
+
+Bag of Words (BoW) for Message 3:
+ 100  150pday  16  20000  6days  87575  apply  cash  chances  cost  csh11  four  hl  info  pounds  reply  send  six  tsandcs  txt  win
+   1        1   1      1      1      1      1     1        1     1      1     1   1     1       1      1     1    1        1    1    1
+
+Term Frequency (TF) for Message 3:
+     100  150pday       16    20000    6days    87575    apply     cash  chances     cost    csh11     four       hl     info   pounds    reply     send      six  tsandcs      txt      win
+0.047619 0.047619 0.047619 0.047619 0.047619 0.047619 0.047619 0.047619 0.047619 0.047619 0.047619 0.047619 0.047619 0.047619 0.047619 0.047619 0.047619 0.047619 0.047619 0.047619 0.047619
+
+Inverse Document Frequency (IDF) for Words in Message 3:
+     100  150pday      16    20000    6days    87575   apply     cash  chances     cost    csh11     four       hl     info   pounds    reply     send      six  tsandcs      txt      win
+6.974397 8.846199 5.90176 8.846199 8.846199 8.440734 6.32047 5.428472 8.846199 6.138149 8.846199 4.054549 8.153052 7.141451 6.648974 4.811958 4.470442 6.042838 8.846199 4.695159 5.668145
+
+Vectorized Message (TF-IDF) 3:
+     100  150pday       16    20000    6days    87575   apply     cash  chances     cost    csh11     four       hl     info  pounds    reply     send      six  tsandcs      txt      win
+0.215925 0.273876 0.182717 0.273876 0.273876 0.261323 0.19568 0.168064 0.273876 0.190035 0.273876 0.125528 0.252416 0.221097 0.20585 0.148977 0.138404 0.187085 0.273876 0.145361 0.175484
+
+Original Message 4:
+K tell me anything about you.
+
+Cleaned Message 4:
+k tell anything
+
+Bag of Words (BoW) for Message 4:
+ anything  tell
+        1     1
+
+Term Frequency (TF) for Message 4:
+ anything  tell
+      0.5   0.5
+
+Inverse Document Frequency (IDF) for Words in Message 4:
+ anything     tell
+ 5.319838 4.719064
+
+Vectorized Message (TF-IDF) 4:
+ anything     tell
+ 0.748085 0.663603
+
