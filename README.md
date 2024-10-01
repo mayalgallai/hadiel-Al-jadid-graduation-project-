@@ -36,7 +36,7 @@ DataPreprocessor.py: Handles the preprocessing of data, such as dropping missing
 ModelTrainer.py: Central class that loads data, trains the model, and evaluates it using k-fold cross-validation.
 
 app.py: Streamlit web application for users to input email content and get predictions (Spam or Ham).
-# graduation project 4 algorith
+# graduation project 4 other algorithms
 decision_tree_model.py:
 
 Contains the DecisionTreeModel class, which inherits from AbstractModel. It uses either TfidfVectorizer or CountVectorizer to convert text data into features.
